@@ -41,7 +41,7 @@ We provide examples of scripts to train HNNs in the Klein model. In the examples
 
 * For Actor dataset
 
-`CUDA_VISIBLE_DEVICES=1 nohup python train.py --task nc --dataset film --model HNN --lr 0.01 --dim 16 --num-layers 2 --act relu --bias 1 --dropout 0 --weight-decay 0 --manifold Klein --log-freq 1 > log.file 2>&1 >&1 &
+`CUDA_VISIBLE_DEVICES=1 nohup python train.py --task nc --dataset film --model HNN --lr 0.01 --dim 16 --num-layers 2 --act relu --bias 1 --dropout 0 --weight-decay 0 --manifold Klein --log-freq 1 > log.file 2>&1 >&1 &`
 
 * For Cora dataset
 
