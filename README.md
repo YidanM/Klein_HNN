@@ -73,7 +73,7 @@ We provide examples of scripts to train HNNs in the Klein model. In the examples
 
 ## Citation
 ```
-Yidan Mao, Jing Gu, Marcus C. Werner, and Dongmian Zou. Klein Model for Hyperbolic Neural Networks. In _NeurIPS 2024 Workshop on Symmetry and Geometry in Neural Representation_s (NeurReps), 2024.
+Yidan Mao, Jing Gu, Marcus C. Werner, and Dongmian Zou. Klein Model for Hyperbolic Neural Networks. In NeurIPS 2024 Workshop on Symmetry and Geometry in Neural Representation_s (NeurReps), 2024.
 ```
 
 or 
